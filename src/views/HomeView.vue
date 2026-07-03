@@ -81,12 +81,18 @@ import NavBar from '@/components/Navbar.vue'
     <section id="skills" class="py-16">
       <div class="mx-auto max-w-5xl">
         <h2 class="pb-12 text-center text-4xl font-bold text-w sm:text-3xl">SKILLS</h2>
-        <div class="flex flex-wrap justify-center text-amber-50 gap-8" style="opacity: 1; transform: none;">
-          <div class="flex items-center gap-3 rounded-lg bg-secondary px-4 py-2 font-bold bg-indigo-600"
+        <div class="flex flex-wrap justify-center gap-6">
+          
+          <div class="flex items-center gap-3 rounded-lg px-4 py-2 font-bold bg-indigo-600"
             style="opacity: 1; transform: none;"><img alt="HTML" loading="lazy" width="40" height="40" decoding="async"
               data-nimg="1" class="sm:h-8 sm:w-8" style="color:transparent"
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">HTML</div>
-          <div class="flex items-center gap-3 rounded-lg bg-secondary px-4 py-2 font-bold bg-indigo-600"
+
+
+
+
+
+          <div class="flex items-center gap-3 rounded-xl bg-secondary px-4 py-2 font-bold bg-indigo-600"
             style="opacity: 1; transform: none;"><img alt="CSS" loading="lazy" width="40" height="40" decoding="async"
               data-nimg="1" class="sm:h-8 sm:w-8" style="color:transparent"
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">CSS</div>
