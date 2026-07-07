@@ -1,11 +1,10 @@
 <script setup lang="ts">
-import Navbar from './components/Navbar.vue';
-import Footer from './components/Footer.vue';
+import HomeView from './views/HomeView.vue';
 
 </script>
 
 <template>
   <main>
-   <router-view />
+   <HomeView />
   </main>
 </template>
