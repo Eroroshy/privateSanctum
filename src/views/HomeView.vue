@@ -23,7 +23,7 @@ const projects = [
     title: 'Kinetic',
     image: 'https://i.imgur.com/CHIgyJt.png',
     description: 'Aplicación móvil enfocada al seguimiento de entrenamientos físicos, gestión de rutinas personalizadas y geolocalización de gimnasios cercanos.',
-    demo: 'https://demo.com',
+    demo: 'https://kinetic.erickvargas.dev/',
     github: 'https://github.com/Eroroshy/kinetic',
     technologies: ['React Native', 'Supabase', 'PostgreSQL']
   },
